@@ -1,0 +1,24 @@
+{
+  "name": "Lesson_One_WebVR",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasAlford/Lesson_One_WebVR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasAlford/Lesson_One_WebVR/issues"
+  },
+  "homepage": "https://github.com/NicholasAlford/Lesson_One_WebVR#readme"
+}
